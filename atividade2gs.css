@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(166, 127, 192);
+    text-align: center;
+}
+h3{
+    background-color: rgba(139, 95, 156, 0.452);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+}
+.conteudo{
+    color: rgb(250, 243, 243);
+    background-color: rgba(169, 114, 214, 0.562);
+}
+footer{
+    background-color: rgb(191, 128, 233);
+    color: aliceblue;
+    position: fixed;
+    padding: 1px;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-direction: row-reverse;
+}
+.logo{
+    width: 150px;
+    height: 150px;
+}
+.rodapé{
+    color: antiquewhite;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    gap: 15px;
+}
+.texto{
+    color: black;
+}
+
+    
